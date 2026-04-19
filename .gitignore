@@ -1,0 +1,24 @@
+# Credentials - NEVER commit
+.credentials
+
+# Debug screenshots
+debug_*.png
+
+# Output files
+*.ics
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
